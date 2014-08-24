@@ -1,3 +1,7 @@
+## Author: Sterling Hoeree
+## Purpose: Plot some PM2.5 data for the
+## Coursera - Exploratory Data Analysis course project.
+
 # Require ddply for easy split/transform/combine operations.
 library(plyr)
 
